@@ -3,7 +3,7 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-#程序员 #java #毕业设计 #电影院会员管理系统 #springboot #课程设计 #编程 #thymeleaf #mybatis #源代码 #ssm
+#程序员 #java #毕业设计 #任务发布招聘系统 #springboot #课程设计 #编程 #thymeleaf #mybatis #源代码 #ssm
 
 ## Spring Boot + Thymeleaf 实现的招聘网站
 
